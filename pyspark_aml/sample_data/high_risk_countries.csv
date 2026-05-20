@@ -1,0 +1,14 @@
+country_code,country_name,risk_level,fatf_blacklist
+NG,Nigeria,HIGH,0
+RU,Russia,HIGH,0
+CN,China,MEDIUM,0
+IR,Iran,CRITICAL,1
+AE,UAE,MEDIUM,0
+PK,Pakistan,HIGH,0
+MX,Mexico,HIGH,0
+SY,Syria,CRITICAL,1
+VE,Venezuela,HIGH,0
+KP,North Korea,CRITICAL,1
+AF,Afghanistan,CRITICAL,1
+MM,Myanmar,HIGH,1
+YE,Yemen,HIGH,0
